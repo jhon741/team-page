@@ -11,6 +11,13 @@
   text-align: center;
 }
 
+.header {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  box-shadow: 0 0 10px black;
+}
+
 .section h2 {
   font-family: sans-serif;
   text-transform: capitalize;
