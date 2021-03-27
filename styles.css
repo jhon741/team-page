@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.content { 
+.content {
   width: 80%;
   margin: 0 auto;
   border: 1px solid black;
@@ -21,10 +21,16 @@
 .section h2 {
   font-family: sans-serif;
   text-transform: capitalize;
-
 }
 
 .section p {
   text-align: justify;
   padding: 15px;
-} 
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-transform: capitalize;
+  padding: 15px;
+}
